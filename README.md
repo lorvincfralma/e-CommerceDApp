@@ -1,6 +1,6 @@
 # e-CommerceDApp
 
-Autori: Vincenzo Fraello & Lorenzo Di Palma
+# Autori: Vincenzo Fraello & Lorenzo Di Palma
 
 Specifiche progetto:
 
